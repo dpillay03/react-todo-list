@@ -1,4 +1,5 @@
 # React To-do List
+## Developer: Daniel Pillay
 ## Description:
 A React App that returns a list of reddit threads based off the users search input.
 ## Technologies
