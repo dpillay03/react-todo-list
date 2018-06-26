@@ -1,0 +1,80 @@
+body{
+    background-color: whitesmoke;
+}
+nav{
+    text-align: center;
+    ul{
+        list-style-type: none;
+        display: inline;
+    }
+    a{
+        text-decoration: none;
+        font-size: 1.5em;
+        display: inline
+    }
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#subheader{
+    text-align: center;
+    font-size: 1.2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#dashSubheader{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+form{
+    text-align: center;
+    #title{
+        width: 20em;
+        height: 2em;
+    }
+    #content{
+        margin-left: 1.4em;
+        width: 35em;
+        height: 2em;
+    }
+    #add{
+        height: 2.5em;
+        width: 7em;
+        margin-left: 2em;
+    }
+}
+
+#goal-header{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    font-weight: bold
+}
+
+.goal-list{
+    background-color: azure;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+    width:25%;
+    padding: 2em;
+    margin-bottom: 2em;
+}
+#note-title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
+}
+note-list{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#note-remove{
+    background-color: green;
+    width: 10em;
+    height: 3em;
+    color: white;
+    border-style: outset;
+    border: 2px solid black;
+}
