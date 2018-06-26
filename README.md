@@ -1,13 +1,14 @@
-# Daniel Pillay: Lab 28 - To-Do List
-### A React App that returns a list of reddit threads based off the users search input.
-### Technologies
+# React To-do List
+## Description:
+A React App that returns a list of reddit threads based off the users search input.
+## Technologies
 1. React.js
 2. Node.js
 3. Webpack
 4. SASS
 5. HTML5
 
-### Tutorial
+## Tutorial
 1. Clone repo
 1. run `` npm install ``
 1. run `` npm run serve ``
